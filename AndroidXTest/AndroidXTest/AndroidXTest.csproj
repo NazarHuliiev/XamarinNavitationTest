@@ -99,7 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Google.Android.Material" Version="1.0.0-preview02" />
-  <PackageReference Include="Xamarin.AndroidX.Migration" Version="1.0.0-preview03" /></ItemGroup>
+</ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
     Other similar extension points exist, see Microsoft.Common.targets.
